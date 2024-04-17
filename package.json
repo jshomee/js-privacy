@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-privacy",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "description": "Description for js-privacy",
   "main": "src/index.js",
   "scripts": {
